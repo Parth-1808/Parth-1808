@@ -28,10 +28,10 @@ I build AI products end to end, from the model and prompt pipeline to the backen
 
 ## 🛠️ Tech I use
 
-**AI/ML:** Python · PyTorch · TensorFlow · Hugging Face · LLM APIs (Groq, Gemini) · prompt engineering
-**Web:** TypeScript · React · Next.js · Tailwind CSS · Vite
-**Backend & data:** Supabase (Postgres, Edge Functions) · FastAPI · Flask · SQL · openCypher
-**Tools:** Git · GitHub Actions · Vercel
+- **AI/ML:** Python · PyTorch · TensorFlow · Hugging Face · LLM APIs (Groq, Gemini) · prompt engineering
+- **Web:** TypeScript · React · Next.js · Tailwind CSS · Vite
+- **Backend & data:** Supabase (Postgres, Edge Functions) · FastAPI · Flask · SQL · openCypher
+- **Tools:** Git · GitHub Actions · Vercel
 
 ## 🔭 Currently
 
